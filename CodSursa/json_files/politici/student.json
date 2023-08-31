@@ -1,0 +1,11 @@
+{	
+	"name":"student",
+	"APPS":{	
+	"whitelist":["/usr/bin/ls","/usr/bin/wget"],
+	"blacklist":["/home/student/f/g.py","/home/student/documents","/root/licenta/program.py","/usr/games/testare"]
+
+	},
+	"TARGET_TYPE":"user",
+	"TARGET_NAME":"student"
+}	
+

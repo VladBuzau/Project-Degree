@@ -1,0 +1,12 @@
+Comenzile disponibile pe sistem sunt:
+./send_command.py reset_system all_rules/scan_rules/politic_rules/admin_rules
+./send_command.py scan_system path_to_director
+./send_command.py scan_system path_to_director all_exe_path untrust_exe_path
+./send_command.py create_scan_rules
+./send_command.py create_scan_rules untrust_exe_path
+./send_command.py send_policy nume_politic.json
+./send_command.py insert_rule path_to_dir/exe 0/1 user/group nume_user/nume_grup
+./send_command.py start_fapolicyd
+./send_command.py stop_fapolicyd
+./send_command.py update_fapolicyd
+

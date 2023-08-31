@@ -1,0 +1,13 @@
+/root/env/bin/easy_install
+/root/env/bin/easy_install-3.6
+/root/env/bin/pip
+/root/env/bin/pip3
+/root/env/bin/pip3.6
+/root/licenta/send_data.py
+/root/licenta/functii.py
+/root/licenta/dbus_server.py
+/root/functii.py
+/root/test/licenta/read_command.py
+/root/test/licenta/send_command.py
+/root/test/licenta/functii.py
+/root/test/licenta/dbus_server.py

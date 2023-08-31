@@ -1,0 +1,11 @@
+{
+	"name":"studenti",
+	"APPS":{	
+	"whitelist":["/usr/licenta/"],
+	"blacklist":["/blocaj/p.py","/var/tmp","/usr/games/testare","/usr/documents"]
+
+	},
+	"TARGET_TYPE":"group",
+	"TARGET_NAME":"studenti"
+}	
+
